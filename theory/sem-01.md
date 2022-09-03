@@ -16,15 +16,15 @@ $a_1$, $a_2$, ..., $a_n$ - аттрибуты.
 - Уникальны.
 - Неупорядочены.
 
-Стандарт SQL:
+Операторы SQL:
 
-- DDL - Data Definition Language (про объекты):
-    `CREATE`, `DROP`, `ALTER`.
+- Определения данных (DDL - Data Definition Language):
+    `CREATE`, `ALTER`, `DROP`.
 
-- DML - Data Manipulation Language (про данные):
-    `INSERT`, `DELETE`, `UPDATE`, `SELECT`, `TRUNCATE`.
+- Манипуляции данными (DML - Data Manipulation Language):
+    `SELECT`, `INSERT`, `UPDATE`, `DELETE`.
 
-- DCL - Data Control Language (про доступ):
+- Определения доступа к данным (DCL - Data Control Language):
     `GRANT`, `REVOKE`, `DENY`.
 
 Как хранить данные:
