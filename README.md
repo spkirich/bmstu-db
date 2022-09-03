@@ -8,6 +8,11 @@
 - [Лекция 01](theory/lec-01.md)
 - _To be continued..._
 
+Семинары:
+
+- [Семинар 01](theory/sem-01.md)
+- _To be continued..._
+
 Лабораторные работы:
 
 - _To be continued..._
