@@ -6,6 +6,7 @@
 Лекции:
 
 - [Лекция 01](theory/lec-01.md)
+- [Лекция 02](theory/lec-02.md)
 - _To be continued..._
 
 Семинары:
