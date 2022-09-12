@@ -40,7 +40,7 @@ $ systemctl enable docker.service
 $ sudo gpasswd -a пользователь docker
 ```
 
-Скачать образ PostgreSQL из реестра можно следующим образом:
+Скачать образ PostgreSQL из реестра можно вот так:
 
 ```
 $ docker pull postgres
