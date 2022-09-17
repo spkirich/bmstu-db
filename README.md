@@ -14,6 +14,7 @@
 
 - [Семинар 01](theory/sem-01.md)
 - [Семинар 02](theory/sem-02.md)
+- [Семинар 03](theory/sem-03.md)
 - _To be continued..._
 
 Лабораторные работы:
